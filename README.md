@@ -1,1 +1,1 @@
-Projeto #02 PUC-SP
+Predicting student's mental health through linear regression.
